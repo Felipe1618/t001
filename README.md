@@ -1,2 +1,3 @@
 # t001
- meu primeiro repositório
+ Meu primeiro repositório
+ Repositório criado por meio do Curso em vídeo, fornecido pelo professor Gustavo Guanabara.
