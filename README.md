@@ -4,3 +4,5 @@
  Repositório criado por meio do Curso em vídeo, fornecido pelo professor Gustavo Guanabara.
 
 Alteração efetuada diretamente pelo github.
+
+refeito configurações na instalção.
